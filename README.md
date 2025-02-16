@@ -40,10 +40,11 @@ Users can also **save the extracted data as a CSV file** for further processing.
 
 
 🎯 Applications
-Content Creators can analyze audience feedback
-Businesses can track brand perception from video comments
-Researchers can perform large-scale sentiment analysis
-Social Media Analysts can study trends and opinions
+
+- Content Creators can analyze audience feedback
+- Businesses can track brand perception from video comments
+- Researchers can perform large-scale sentiment analysis
+- Social Media Analysts can study trends and opinions
 
 
 🤝 Contribution
