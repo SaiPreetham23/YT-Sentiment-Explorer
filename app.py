@@ -8,7 +8,7 @@ import re
 app = Flask(__name__)
 
 # Initialize YouTube API
-API_KEY = 'AIzaSyBR99J0jHGV0OHZmwHvOD075GXj2clC_Qs'
+API_KEY = 'YOUR_API_KEY'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # Function to extract video ID from URL
